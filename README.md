@@ -3,7 +3,9 @@ The RCTM project delivers synced captions of Time-based Media artworks (i.e. vid
 
 ## The Problem
 Time-based media artwork aren't always captioned, and often museums are retricted from adding captions. Printed transcripts provided to audiences can be cumbersome to use. Communicating the availability of transcripts, making them available on demand, and making them easy to use are challenging. Visitors reading through long transcripts often have little to no cues either on the transcript or the artworks, making it difficult to follow along.
+
 ![Grid showing Hirshhorn Museum's existing transcript system](https://s3.amazonaws.com/saif-rctm/caption-challenge.png)
+
 
 ## The Proposed Solution
 By using HTTP methods the timeline of video art can be syncced to a server with REST APIs, which in turn can deliver captions through a web page syncced to the artwork.
