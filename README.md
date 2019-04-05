@@ -8,6 +8,7 @@ Time-based media artwork aren't always captioned, and often museums are retricte
 
 ## The Proposed Solution
 By using HTTP methods the timeline of video art can be syncced to a server with REST APIs, which in turn can deliver captions through a web page syncced to the artwork.
+![Tune project flow](https://s3.amazonaws.com/saif-rctm/tune-flow.png)
 
 ## The Components
 There are two primary components of the project:
